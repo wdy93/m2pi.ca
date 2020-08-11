@@ -44,6 +44,8 @@ user_groups:
 - committee: organizing
 - committee: instructors
   role: Python Instructor
+- committee: members
+  role: Cenovus Project Member
 
 ---
 Ian is the Technology Manager at the Pacific Institute for the Mathematical
